@@ -2,6 +2,4 @@
 /package-lock.json
 /.env
 /src/routes
-/src/controllers
-
 /src/models
