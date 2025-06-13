@@ -3,5 +3,5 @@
 /.env
 /src/routes
 /src/controllers
-/src/utils
+
 /src/models
